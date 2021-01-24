@@ -1,3 +1,4 @@
-for (let i = 10; i > 0; i--){
-    console.log (i);
-}
+let i = 0
+for (; i <= 10 ; i++)
+let num = i;
+console.log (num);
